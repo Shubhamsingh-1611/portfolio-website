@@ -30,6 +30,29 @@ const Projects = () => {
       deployed: true,
     },
     {
+  title: "Decentralize - Voting Application",
+  description:
+    "A blockchain-based voting platform that ensures secure, transparent, and tamper-proof elections. Allows users to cast votes anonymously while maintaining full integrity of results.",
+  icon: Vote, // you can replace with a relevant icon like CheckCircle or a custom voting icon
+  technologies: [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "Solidity",
+    "Ethereum (Web3.js/ethers.js)",
+    "Tailwind CSS",
+  ],
+  features: [
+    "Decentralized and tamper-proof voting system",
+    "Secure voter authentication",
+    "Anonymous vote casting",
+    "Real-time vote tallying",
+    "Responsive UI with Tailwind CSS",
+  ],
+  gradient: "from-[#10B981] to-[#047857]", // you can adjust gradient colors as per your preference
+},
+
+    {
       title: "Chatify - Real-time Chat",
       description:
         "A modern chat platform supporting both one-on-one and group conversations using WebSockets. Features real-time notifications and persistent chat history.",
