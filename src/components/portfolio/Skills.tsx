@@ -138,7 +138,7 @@ const Skills = () => {
           className="mt-20 grid grid-cols-1 md:grid-cols-3 gap-8"
         >
           <div className="text-center p-6 bg-[#111827]/50 rounded-lg border border-gray-800/50">
-            <div className="text-4xl font-bold text-[#8245EC] mb-2">250+</div>
+            <div className="text-4xl font-bold text-[#8245EC] mb-2">300+</div>
             <div className="text-gray-400">DSA Problems Solved</div>
           </div>
           <div className="text-center p-6 bg-[#111827]/50 rounded-lg border border-gray-800/50">
